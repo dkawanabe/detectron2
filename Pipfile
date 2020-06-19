@@ -10,7 +10,6 @@ fvcore = "==0.18.2"
 pycocotools = "==2.0.0"
 torch = "==1.5.0"
 torchvision = "==0.6.0"
-opencv-python = "==4.2.0.34"
 
 [requires]
 python_version = "3.7"
